@@ -53,7 +53,7 @@ Potential enhancements for the E-commerce Dashboard include:
 
 ## Contributors
 
-This project is maintained by [Your Name/Organization](https://github.com/your_username). Contributions and feedback are welcome! 🙌
+This project is maintained by Vivek Yadav([https://github.com/your_username](https://www.linkedin.com/in/vivek-yadav73/)). Contributions and feedback are welcome! 🙌
 
 ## License
 
